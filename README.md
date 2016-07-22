@@ -1,5 +1,4 @@
-JavaShellDeploy
-===============
+# java-shell-deploy
 
 Toolbox for continuous deployment of a Java application.
 
